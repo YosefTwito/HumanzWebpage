@@ -1,0 +1,9 @@
+{
+    "dbUser": {
+      "dbConfig": {
+        "host": "localhost",
+        "port": 5000,
+        "dbName": "mongodb+srv://dbUser:tJV8ATnDKXFyf-6@cluster0.xbnwo.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+      }
+    }
+  }
